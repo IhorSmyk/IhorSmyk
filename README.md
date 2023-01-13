@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
+https://www.codewars.com/users/dotcat/badges/micro
 
 <p align="left">
 </p>
