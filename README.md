@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-https://www.codewars.com/users/dotcat/badges/micro
+ <img src= "https://www.codewars.com/users/dotcat/badges/micro" alt="codewars" />
 
 <p align="left">
 </p>
