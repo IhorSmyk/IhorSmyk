@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Ihor Smyk</h1>
 <h3 align="left">Frontend developer from Ukraine</h3>
 
+<img src= "https://www.codewars.com/users/dotcat/badges/large" alt="codewars" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihorsmyk&label=Profile%20views&color=0e75b6&style=flat" alt="ihorsmyk" /> </p>
 
 - 🌱 I’m currently learning **React**
-
- <img src= "https://www.codewars.com/users/dotcat/badges/micro" alt="codewars" />
 
 <p align="left">
 </p>
