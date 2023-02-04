@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihorsmyk&label=Profile%20views&color=0e75b6&style=flat" alt="ihorsmyk" /> </p>
 
-- 🌱 I’m currently learning **Node.js*
+- 🌱 I’m currently learning *Node.js*
 
 <p align="left"> <img src="https://www.codewars.com/users/dotcat/badges/large" alt="codewars" /> </p>
 
