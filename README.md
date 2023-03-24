@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋, I'm Ihor Smyk</h1>
 <h3 align="left">Full-stack developer from Ukraine</h3>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihor-smyk/)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihorsmyk&label=Profile%20views&color=0e75b6&style=flat" alt="ihorsmyk" /> </p>
 
 <p align="left"> <img src="https://www.codewars.com/users/dotcat/badges/large" alt="codewars" /> </p>
