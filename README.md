@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://www.codewars.com/users/dotcat/badges/large" alt="codewars" /> </p>
 
-- 🌱 I’m currently learning **Java**
-
 - 📫 How to reach me **ismyk256@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
