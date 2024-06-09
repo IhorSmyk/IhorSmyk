@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ihor Smyk</h1>
-<h3 align="left">Front-end developer from Ukraine</h3>
+<h3 align="left">Developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihorsmyk&label=Profile%20views&color=0e75b6&style=flat" alt="ihorsmyk" /> </p>
 
